@@ -1,24 +1,15 @@
+# Botbot, v1.2
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Botbot is a for fun project based on the inside joke from reddit.
 
+"Long ago, in a galaxy far away...
 
-Welcome to your Rails project on Cloud9 IDE!
+There was an askreddit post where someone asked the quesiton, 'how many bots are there on reddit' to whcih the brunt of the comment section was filled with users posting the comment 'Everyone is a bot except you.'"
 
-To get started, just do the following:
+At some point, I was taling in the Empeopled IRC chat about making a bot that says that whenever someone typed the word "bot".
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://botbot-ralkkai.c9.io/).
+Then I actually made it.
 
-Happy coding!
-The Cloud9 IDE team
+This might be the stupidest thing I ahve ever done code-wise.
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+-Ralkkai, Android Hell
